@@ -12,11 +12,7 @@ Ransomware has been a prominent threat to enterprises, SMBs, and individuals ali
 
 ### [](#header-3)THE GENERAL TECHNICAL ASPECTS OF AN ATTACK SUCH AS RANSOMWARE 
 
-`
-```
 Experiencing interference with some of our Windows-based systems caused by malware
-
-```
 
 #### [](#header-4)Header 4
 
