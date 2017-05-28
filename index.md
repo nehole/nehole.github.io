@@ -43,26 +43,20 @@ Though hackers have been known to leverage unpatched vulnerabilities in software
 
 
 
-### Small image
+
 
 ![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
-### Large image
 
 ![](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
+
 
 <dl>
 <dt>Name</dt>
 <dd>Wandera Nehole Peter</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+
 </dl>
 
 ```
