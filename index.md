@@ -12,8 +12,9 @@ Ransomware has been a prominent threat to enterprises, SMBs, and individuals ali
 
 ### [](#header-3)THE GENERAL TECHNICAL ASPECTS OF AN ATTACK SUCH AS RANSOMWARE 
 
-Experiencing interference with some of our Windows-based systems caused by malware
+cyber blackmail situation, hackers obtain sensitive data from an organization and then threaten to publicly disclose it unless a payment is received.
 
+ hackers plant a malicious program on a corporate network that encrypts data and denies the organization access to its own files until a payment is received.
 #### [](#header-4)General ethical aspects related to this attack 
 
 Its
