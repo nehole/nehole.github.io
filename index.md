@@ -14,12 +14,9 @@ Ransomware has been a prominent threat to enterprises, SMBs, and individuals ali
 
 Experiencing interference with some of our Windows-based systems caused by malware
 
-#### [](#header-4)Header 4
+#### [](#header-4)General ethical aspects related to this attack 
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
+Its
 ##### [](#header-5)Header 5
 
 1.  This is an ordered list following a header.
