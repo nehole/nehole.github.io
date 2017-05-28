@@ -18,8 +18,7 @@ In a typical cyber blackmail scenario, hackers obtain inside information from th
 
 In a typical ransomware scenario, a malicious software program encrypts files on a computer, network folders and/or backups (if they can be accessed from the infected computers), making the data unavailable for the victim’s ongoing business and operational purposes. The hackers store a key to decrypt the files, which is not released until the ransom is paid. If the ransom is not paid within the initially specified time frame, the hackers may threaten to permanently destroy the decryption key as a way to increase pressure on the victim organization.
 #### [](#header-4)General ethical aspects related to this attack 
-
-Its
+Though hackers have been known to leverage unpatched vulnerabilities in software and operating systems to gain initial access, attacks are more often crafted to exploit the target’s own employees, as they are often the weakest link from a security perspective. In a method called “spear phishing,” for example, hackers use specific information about employees and/or the organization to craft emails that appear legitimate. However, these emails may contain unauthorized program files, macro-enabled Microsoft Office files, or download links that point toward obscured malicious software.
 ##### [](#header-5)Header 5
 
 1.  This is an ordered list following a header.
