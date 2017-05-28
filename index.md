@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [](#header-1) RAMSOMEWARE
+# [](#header-1) RANSOMEWARE
 
 Ransomware is a type of malicious software that blocks access to the victim's data or threatens to publish or delete it until a ransom is paid. Any action is possible once a device or system is infected and there is no guarantee that paying the ransom will return access or not delete the data. Simple ransomware may lock the system in a way which is not difficult for a knowledgeable person to reverse.
 ## [](#header-2)GENESIS AND NATURE OF ATTACK THAT RANSOMWARE 
