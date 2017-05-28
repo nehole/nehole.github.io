@@ -12,19 +12,10 @@ Ransomware has been a prominent threat to enterprises, SMBs, and individuals ali
 
 ### [](#header-3)THE GENERAL TECHNICAL ASPECTS OF AN ATTACK SUCH AS RANSOMWARE 
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+`
 ```
 Experiencing interference with some of our Windows-based systems caused by malware
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
+
 ```
 
 #### [](#header-4)Header 4
