@@ -10,7 +10,7 @@ Ransomware is a type of malicious software that blocks access to the victim's da
 Ransomware has been a prominent threat to enterprises, SMBs, and individuals alike since the mid-2000s. In fact, there were more than 7,600 ransomware attacks reported to the Internet Crime Complaint Center (IC3) between 2005 and March of last year, outnumbering the just over 6,000 data breaches reported during the same time period.
 
 
-### [](#header-3)Header 3
+### [](#header-3)THE GENERAL TECHNICAL ASPECTS OF AN ATTACK SUCH AS RANSOMWARE 
 
 ```js
 // Javascript code with syntax highlighting.
