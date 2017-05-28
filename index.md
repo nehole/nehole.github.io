@@ -4,13 +4,11 @@ layout: default
 
 # [](#header-1) RAMSOMEWARE
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Ransomware is a type of malicious software that blocks access to the victim's data or threatens to publish or delete it until a ransom is paid. Any action is possible once a device or system is infected and there is no guarantee that paying the ransom will return access or not delete the data. Simple ransomware may lock the system in a way which is not difficult for a knowledgeable person to reverse.
+## [](#header-2)GENESIS AND NATURE OF ATTACK THAT RANSOMWARE 
 
-## [](#header-2)Header 2
+Ransomware has been a prominent threat to enterprises, SMBs, and individuals alike since the mid-2000s. In fact, there were more than 7,600 ransomware attacks reported to the Internet Crime Complaint Center (IC3) between 2005 and March of last year, outnumbering the just over 6,000 data breaches reported during the same time period.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
 ### [](#header-3)Header 3
 
