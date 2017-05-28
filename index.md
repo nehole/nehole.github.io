@@ -39,7 +39,7 @@ Though hackers have been known to leverage unpatched vulnerabilities in software
 6.  Disable macro scripts from office files transmitted via email. Consider using Office Viewer software to open Microsoft Office files transmitted via email instead of full Office suite applications.
 
 
-###### [](#header-6)Header 6
+###### [](#header-6)
 
 
 ###### [](#header-6)
