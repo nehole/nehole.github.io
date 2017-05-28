@@ -12,9 +12,11 @@ Ransomware has been a prominent threat to enterprises, SMBs, and individuals ali
 
 ### [](#header-3)THE GENERAL TECHNICAL ASPECTS OF AN ATTACK SUCH AS RANSOMWARE 
 
-cyber blackmail situation, hackers obtain sensitive data from an organization and then threaten to publicly disclose it unless a payment is received.
+Cyber Blackmail and Ransomware
 
- hackers plant a malicious program on a corporate network that encrypts data and denies the organization access to its own files until a payment is received.
+In a typical cyber blackmail scenario, hackers obtain inside information from the victim and threaten to publicly disclose it if their financial demands are not met. The inside information could include trade secrets, insider financial data, or allegations of an embarrassing nature. The victim is notified and given just enough evidence to reasonably confirm that the hackers actually possess the information that they claim.
+
+In a typical ransomware scenario, a malicious software program encrypts files on a computer, network folders and/or backups (if they can be accessed from the infected computers), making the data unavailable for the victim’s ongoing business and operational purposes. The hackers store a key to decrypt the files, which is not released until the ransom is paid. If the ransom is not paid within the initially specified time frame, the hackers may threaten to permanently destroy the decryption key as a way to increase pressure on the victim organization.
 #### [](#header-4)General ethical aspects related to this attack 
 
 Its
