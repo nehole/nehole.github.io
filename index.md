@@ -19,11 +19,25 @@ In a typical cyber blackmail scenario, hackers obtain inside information from th
 In a typical ransomware scenario, a malicious software program encrypts files on a computer, network folders and/or backups (if they can be accessed from the infected computers), making the data unavailable for the victim’s ongoing business and operational purposes. The hackers store a key to decrypt the files, which is not released until the ransom is paid. If the ransom is not paid within the initially specified time frame, the hackers may threaten to permanently destroy the decryption key as a way to increase pressure on the victim organization.
 #### [](#header-4)General ethical aspects related to this attack 
 Though hackers have been known to leverage unpatched vulnerabilities in software and operating systems to gain initial access, attacks are more often crafted to exploit the target’s own employees, as they are often the weakest link from a security perspective. In a method called “spear phishing,” for example, hackers use specific information about employees and/or the organization to craft emails that appear legitimate. However, these emails may contain unauthorized program files, macro-enabled Microsoft Office files, or download links that point toward obscured malicious software.
-##### [](#header-5)Header 5
+##### [](#header-5)SOME MITIGATION ASPECTS FOR ORGANISATIONS 
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  Implement an awareness and training program. Because end users are targeted, employees and individuals should be made aware     of the threat of ransomware and how it is delivered.
+
+
+2.  Patch operating systems, software, and firmware on devices, which may be made easier through a centralized patch management system.
+
+
+3.  Ensure anti-virus and anti-malware solutions are set to automatically update and that regular scans are conducted.
+
+
+4.  Manage the use of privileged accounts. Implement the principle of least privilege: no users should be assigned administrative access unless absolutely needed; those with a need for administrator accounts should only use them when necessary.
+
+
+5.  Configure access controls, including file, directory and network share permissions, with least privilege in mind. If a user only needs to read specific files, they should not have write access to those files, directories or shares.
+
+
+6.  Disable macro scripts from office files transmitted via email. Consider using Office Viewer software to open Microsoft Office files transmitted via email instead of full Office suite applications.
+
 
 ###### [](#header-6)Header 6
 
