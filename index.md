@@ -47,7 +47,6 @@ Though hackers have been known to leverage unpatched vulnerabilities in software
 
 <h1>Big Data</h1>
 
-vbbbbb 
 
 
 <dl>
