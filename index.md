@@ -2,58 +2,122 @@
 layout: default
 ---
 
-# [](#header-1) RANSOMEWARE
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-Ransomware is a type of malicious software that blocks access to the victim's data or threatens to publish or delete it until a ransom is paid. Any action is possible once a device or system is infected and there is no guarantee that paying the ransom will return access or not delete the data. Simple ransomware may lock the system in a way which is not difficult for a knowledgeable person to reverse.
-## [](#header-2)GENESIS AND NATURE OF ATTACK THAT RANSOMWARE 
+[Link to another page](another-page).
 
-Ransomware has been a prominent threat to enterprises, SMBs, and individuals alike since the mid-2000s. In fact, there were more than 7,600 ransomware attacks reported to the Internet Crime Complaint Center (IC3) between 2005 and March of last year, outnumbering the just over 6,000 data breaches reported during the same time period.
+There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+# [](#header-1)Header 1
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+## [](#header-2)Header 2
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+
+### [](#header-3)Header 3
+
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
+
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
+
+#### [](#header-4)Header 4
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+##### [](#header-5)Header 5
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
+
+###### [](#header-6)Header 6
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+### There's a horizontal rule below this.
+
+* * *
+
+### Here is an unordered list:
+
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
+
+### And an ordered list:
+
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
+
+### And a nested list:
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+
+### Small image
+
+![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+
+### Large image
+
+![](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### [](#header-3)THE GENERAL TECHNICAL ASPECTS OF AN ATTACK SUCH AS RANSOMWARE 
-
-Cyber Blackmail and Ransomware
-
-In a typical cyber blackmail scenario, hackers obtain inside information from the victim and threaten to publicly disclose it if their financial demands are not met. The inside information could include trade secrets, insider financial data, or allegations of an embarrassing nature. The victim is notified and given just enough evidence to reasonably confirm that the hackers actually possess the information that they claim.
-
-In a typical ransomware scenario, a malicious software program encrypts files on a computer, network folders and/or backups (if they can be accessed from the infected computers), making the data unavailable for the victim’s ongoing business and operational purposes. The hackers store a key to decrypt the files, which is not released until the ransom is paid. If the ransom is not paid within the initially specified time frame, the hackers may threaten to permanently destroy the decryption key as a way to increase pressure on the victim organization.
-#### [](#header-4)General ethical aspects related to this attack 
-Though hackers have been known to leverage unpatched vulnerabilities in software and operating systems to gain initial access, attacks are more often crafted to exploit the target’s own employees, as they are often the weakest link from a security perspective. In a method called “spear phishing,” for example, hackers use specific information about employees and/or the organization to craft emails that appear legitimate. However, these emails may contain unauthorized program files, macro-enabled Microsoft Office files, or download links that point toward obscured malicious software.
-##### [](#header-5)SOME MITIGATION ASPECTS FOR ORGANISATIONS 
-
-1.  Implement an awareness and training program. Because end users are targeted, employees and individuals should be made aware     of the threat of ransomware and how it is delivered.
-
-
-2.  Patch operating systems, software, and firmware on devices, which may be made easier through a centralized patch management system.
-
-
-3.  Ensure anti-virus and anti-malware solutions are set to automatically update and that regular scans are conducted.
-
-
-4.  Manage the use of privileged accounts. Implement the principle of least privilege: no users should be assigned administrative access unless absolutely needed; those with a need for administrator accounts should only use them when necessary.
-
-
-5.  Configure access controls, including file, directory and network share permissions, with least privilege in mind. If a user only needs to read specific files, they should not have write access to those files, directories or shares.
-
-
-6.  Disable macro scripts from office files transmitted via email. Consider using Office Viewer software to open Microsoft Office files transmitted via email instead of full Office suite applications.
-
-
-###### [](#header-6)
-
-
-###### [](#header-6)
-
-
-<h1>Big Data</h1>
-
-
+### Definition lists can be used with HTML syntax.
 
 <dl>
 <dt>Name</dt>
-<dd>Wandera Nehole Peter</dd>
-
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
 </dl>
 
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
 
-
+```
+The final element.
+```
