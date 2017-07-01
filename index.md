@@ -46,10 +46,6 @@ Though hackers have been known to leverage unpatched vulnerabilities in software
 
 
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-
-![](https://guides.github.com/activities/hello-world/branching.png)
 
 
 
